@@ -97,4 +97,10 @@ resource "aws_route_table_association" "public_assoc" {
   route_table_id = aws_route_table.public_rt.id
 }
 
+## 📸 Proof of Execution
+<img width="1920" height="1080" alt="Screenshot (3558)" src="https://github.com/user-attachments/assets/efd92e62-8811-4818-9f65-1ade7c6957d8" />
+<img width="1920" height="1080" alt="Screenshot (3569)" src="https://github.com/user-attachments/assets/01e880b8-856f-4824-ab1c-422a941d9619" />
+<img width="1920" height="1080" alt="Screenshot (3571)" src="https://github.com/user-attachments/assets/7a816482-b6dc-42bd-9d1c-febbe9d03b18" />
+
+
 
